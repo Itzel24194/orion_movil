@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Language: en\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "search"
+msgstr "Search products..."
+
+msgid "categories"
+msgstr "Categories"
+
+msgid "all"
+msgstr "All"
+
+msgid "catalog"
+msgstr "Explore ORION"
+
+msgid "subtitle"
+msgstr "Your style, your way"
+
+msgid "virtual"
+msgstr "Virtual fitting room"
+
+msgid "tryNow"
+msgstr "Try it on"
+
+msgid "discoveries"
+msgstr "Discover products"
+
+msgid "shopping"
+msgstr "Shop"
+
+msgid "cart"
+msgstr "Cart"
+
+msgid "home"
+msgstr "Home"
+
+msgid "profile"
+msgstr "Profile"
+
+msgid "multimedia"
+msgstr "Media"
+
+msgid "seeDetails"
+msgstr "See details"
+
+msgid "add"
+msgstr "Add to cart"
+
+msgid "empty"
+msgstr "No results"
+
+msgid "emptyText"
+msgstr "Try another search."
+
+msgid "size"
+msgstr "Size"
+
+msgid "color"
+msgstr "Color"
+
+msgid "quantity"
+msgstr "Quantity"
+
+msgid "description"
+msgstr "Description"
+
+msgid "subtotal"
+msgstr "Subtotal"
+
+msgid "shipping"
+msgstr "Estimated shipping"
+
+msgid "total"
+msgstr "Estimated total"
+
+msgid "checkout"
+msgstr "Checkout"
+
+msgid "orderRequest"
+msgstr "Request order"
+
+msgid "dark"
+msgstr "Dark mode"
+
+msgid "language"
+msgstr "Language"
+
+msgid "loading"
+msgstr "Loading products"
+
+msgid "noVideos"
+msgstr "There are no videos for these products yet."
+
+msgid "history"
+msgstr "History"
+
+msgid "save"
+msgstr "Save"
+
+msgid "share"
+msgstr "Share"
+
+msgid "repeat"
+msgstr "Retake"
+

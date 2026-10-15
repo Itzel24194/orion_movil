@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Language: es\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "search"
+msgstr "Buscar productos..."
+
+msgid "categories"
+msgstr "Categorías"
+
+msgid "all"
+msgstr "Todo"
+
+msgid "catalog"
+msgstr "Explora ORION"
+
+msgid "subtitle"
+msgstr "Tu estilo, a tu manera"
+
+msgid "virtual"
+msgstr "Probador virtual"
+
+msgid "tryNow"
+msgstr "Probar en el espejo"
+
+msgid "discoveries"
+msgstr "Descubre productos"
+
+msgid "shopping"
+msgstr "Comprar"
+
+msgid "cart"
+msgstr "Carrito"
+
+msgid "home"
+msgstr "Inicio"
+
+msgid "profile"
+msgstr "Perfil"
+
+msgid "multimedia"
+msgstr "Multimedia"
+
+msgid "seeDetails"
+msgstr "Ver detalles"
+
+msgid "add"
+msgstr "Agregar al carrito"
+
+msgid "empty"
+msgstr "Sin resultados"
+
+msgid "emptyText"
+msgstr "Prueba con otra búsqueda."
+
+msgid "size"
+msgstr "Talla"
+
+msgid "color"
+msgstr "Color"
+
+msgid "quantity"
+msgstr "Cantidad"
+
+msgid "description"
+msgstr "Descripción"
+
+msgid "subtotal"
+msgstr "Subtotal"
+
+msgid "shipping"
+msgstr "Envío estimado"
+
+msgid "total"
+msgstr "Total estimado"
+
+msgid "checkout"
+msgstr "Finalizar pedido"
+
+msgid "orderRequest"
+msgstr "Solicitar pedido"
+
+msgid "dark"
+msgstr "Modo oscuro"
+
+msgid "language"
+msgstr "Idioma"
+
+msgid "loading"
+msgstr "Cargando productos"
+
+msgid "noVideos"
+msgstr "Aún no hay videos de estos productos."
+
+msgid "history"
+msgstr "Historial"
+
+msgid "save"
+msgstr "Guardar"
+
+msgid "share"
+msgstr "Compartir"
+
+msgid "repeat"
+msgstr "Repetir"
+
