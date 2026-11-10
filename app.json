@@ -23,7 +23,20 @@
       "expo-splash-screen",
       "expo-status-bar",
       "expo-video",
-      "expo-web-browser"
+      "expo-web-browser",
+      "expo-secure-store",
+      [
+        "expo-local-authentication",
+        {
+          "faceIDPermission": "Permitir usar Face ID para desbloquear ORION / Allow Face ID to unlock ORION"
+        }
+      ],
+      [
+        "expo-notifications",
+        {
+          "color": "#000000"
+        }
+      ]
     ],
     "ios": {
       "supportsTablet": true
@@ -33,7 +46,14 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/logo.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "googleServicesFile": "./google-services.json",
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.USE_BIOMETRIC",
+        "android.permission.USE_FINGERPRINT",
+        "android.permission.POST_NOTIFICATIONS"
+      ]
     },
     "web": {
       "favicon": "./assets/images/logo.png"
@@ -43,5 +63,6 @@
         "projectId": "e53f4ead-910e-4214-90c4-d879a6464828"
       }
     }
-  }
+  },
+  "owner": "itzeeel"
 }
