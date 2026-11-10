@@ -29,7 +29,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.oscar23456.ORIONSTOREE",
+      "package": "com.itzel23456.ORIONSTOREE",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/logo.png",
         "backgroundColor": "#FFFFFF"
@@ -40,7 +40,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "6ab99cbb-4173-4bef-89bb-5314eeef046e"
+        "projectId": "e53f4ead-910e-4214-90c4-d879a6464828"
       }
     }
   }
