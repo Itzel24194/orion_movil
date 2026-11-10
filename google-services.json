@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958834819420",
+    "project_id": "orion-d48bd",
+    "storage_bucket": "orion-d48bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958834819420:android:72dbe16ec04bccad934199",
+        "android_client_info": {
+          "package_name": "com.itzel23456.ORIONSTOREE"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANOZ-DB7Y_78R0SaLPf497_f6xwRSJB-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
