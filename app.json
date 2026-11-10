@@ -2,6 +2,7 @@
   "expo": {
     "name": "ORIONSTOREE",
     "slug": "ORIONSTOREE",
+    "owner": "itzeeel",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/logo.png",
@@ -63,6 +64,5 @@
         "projectId": "e53f4ead-910e-4214-90c4-d879a6464828"
       }
     }
-  },
-  "owner": "itzeeel"
+  }
 }
